@@ -1,2 +1,2 @@
 # Space Rocket Adventure!
-Webpage decoratively showcases a Space Rocket Toy.
+Two webpages showcases a Space Rocket Toy with different color text and backgrounds.
